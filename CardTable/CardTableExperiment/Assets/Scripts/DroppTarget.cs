@@ -5,13 +5,16 @@ using System;
 
 public class DroppTarget : MonoBehaviour, IDropHandler, IPointerEnterHandler, IPointerExitHandler
 {
+    public int type;
+
     public void OnDrop(PointerEventData eventData)
     {
-        Debug.Log("On Drop");
+       // Debug.Log("On Drop");
 
         Draggable d = eventData.pointerDrag.GetComponent<Draggable>();
+        var targetType = eventData.pointerDrag.GetComponent<Draggable>().type;
 
-        if(d!=null)
+        if(d!=null &&(this.type==0 || this.type==targetType) )
         {
             d.gotToParrent = this.transform;
         }

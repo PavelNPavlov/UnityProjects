@@ -3,10 +3,13 @@ using System.Collections;
 using UnityEngine.EventSystems;
 using System;
 
+
 public class Draggable : MonoBehaviour, IDragHandler, IBeginDragHandler, IEndDragHandler
 {
     public Transform gotToParrent=null;
     private CanvasGroup canvasGroup;
+
+    public int type = 1;
 
     void Start()
     {

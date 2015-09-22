@@ -5,9 +5,19 @@ using System;
 
 public class Draggable : MonoBehaviour, IDragHandler, IBeginDragHandler, IEndDragHandler
 {
+    public Transform gotToParrent=null;
+    private CanvasGroup canvasGroup;
+
+    void Start()
+    {
+        canvasGroup = this.GetComponent<CanvasGroup>();
+    }
+
     public void OnBeginDrag(PointerEventData eventData)
     {
-        Debug.Log("BeginDrag");
+        gotToParrent = this.transform.parent;
+        this.transform.SetParent(gotToParrent.parent);
+        canvasGroup.blocksRaycasts = false;
     }
 
     public void OnDrag(PointerEventData eventData)
@@ -17,6 +27,8 @@ public class Draggable : MonoBehaviour, IDragHandler, IBeginDragHandler, IEndDra
 
     public void OnEndDrag(PointerEventData eventData)
     {
-        Debug.Log("DragEnd");
+        this.transform.SetParent(gotToParrent);
+        canvasGroup.blocksRaycasts = true;
+
     }
 }

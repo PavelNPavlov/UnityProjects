@@ -1,0 +1,123 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+#
+# Initial commit
+#
+# Changes to be committed:
+#	new file:   CardTable/CardTableExperiment/Assets/Assets.meta
+#	new file:   CardTable/CardTableExperiment/Assets/Prefabs.meta
+#	new file:   CardTable/CardTableExperiment/Assets/Scenes.meta
+#	new file:   CardTable/CardTableExperiment/Assets/Scripts.meta
+#	new file:   CardTable/CardTableExperiment/Assets/UnityVS.meta
+#	new file:   CardTable/CardTableExperiment/Assets/UnityVS/Editor.meta
+#	new file:   CardTable/CardTableExperiment/Assets/UnityVS/Editor/SyntaxTree.VisualStudio.Unity.Bridge.dll
+#	new file:   CardTable/CardTableExperiment/Assets/UnityVS/Editor/SyntaxTree.VisualStudio.Unity.Bridge.dll.meta
+#	new file:   CardTable/CardTableExperiment/Assets/UnityVS/Editor/SyntaxTree.VisualStudio.Unity.Messaging.dll
+#	new file:   CardTable/CardTableExperiment/Assets/UnityVS/Editor/SyntaxTree.VisualStudio.Unity.Messaging.dll.meta
+#	new file:   CardTable/CardTableExperiment/Assets/UnityVS/Editor/UnityVS.VersionSpecific.dll
+#	new file:   CardTable/CardTableExperiment/Assets/UnityVS/Editor/UnityVS.VersionSpecific.dll.meta
+#	new file:   CardTable/CardTableExperiment/Library/AnnotationManager
+#	new file:   CardTable/CardTableExperiment/Library/AssetImportState
+#	new file:   CardTable/CardTableExperiment/Library/AssetServerCacheV3
+#	new file:   CardTable/CardTableExperiment/Library/AssetVersioning.db
+#	new file:   CardTable/CardTableExperiment/Library/BuildPlayer.prefs
+#	new file:   CardTable/CardTableExperiment/Library/BuildSettings.asset
+#	new file:   CardTable/CardTableExperiment/Library/CrashedAssetImports.txt
+#	new file:   CardTable/CardTableExperiment/Library/CurrentLayout.dwlt
+#	new file:   CardTable/CardTableExperiment/Library/EditorUserBuildSettings.asset
+#	new file:   CardTable/CardTableExperiment/Library/EditorUserSettings.asset
+#	new file:   CardTable/CardTableExperiment/Library/InspectorExpandedItems.asset
+#	new file:   CardTable/CardTableExperiment/Library/LibraryFormatVersion.txt
+#	new file:   CardTable/CardTableExperiment/Library/MonoManager.asset
+#	new file:   CardTable/CardTableExperiment/Library/ScriptAssemblies/BuiltinAssemblies.stamp
+#	new file:   CardTable/CardTableExperiment/Library/ScriptMapper
+#	new file:   CardTable/CardTableExperiment/Library/ShaderCache/7/71393733f792a3d50c8ba840674efb52.bin
+#	new file:   CardTable/CardTableExperiment/Library/ShaderCache/8/83cf24ccfdc44f2d37058af4c2b524ea.bin
+#	new file:   CardTable/CardTableExperiment/Library/UnityAssemblies/UnityEditor.dll
+#	new file:   CardTable/CardTableExperiment/Library/UnityAssemblies/UnityEditor.xml
+#	new file:   CardTable/CardTableExperiment/Library/UnityAssemblies/UnityEngine.dll
+#	new file:   CardTable/CardTableExperiment/Library/UnityAssemblies/UnityEngine.xml
+#	new file:   CardTable/CardTableExperiment/Library/UnityAssemblies/version.txt
+#	new file:   CardTable/CardTableExperiment/Library/assetDatabase3
+#	new file:   CardTable/CardTableExperiment/Library/metadata/00/00000000000000001000000000000000
+#	new file:   CardTable/CardTableExperiment/Library/metadata/00/00000000000000001000000000000000.info
+#	new file:   CardTable/CardTableExperiment/Library/metadata/00/00000000000000002000000000000000
+#	new file:   CardTable/CardTableExperiment/Library/metadata/00/00000000000000002000000000000000.info
+#	new file:   CardTable/CardTableExperiment/Library/metadata/00/00000000000000003000000000000000
+#	new file:   CardTable/CardTableExperiment/Library/metadata/00/00000000000000003000000000000000.info
+#	new file:   CardTable/CardTableExperiment/Library/metadata/00/00000000000000004000000000000000
+#	new file:   CardTable/CardTableExperiment/Library/metadata/00/00000000000000004000000000000000.info
+#	new file:   CardTable/CardTableExperiment/Library/metadata/00/00000000000000004100000000000000
+#	new file:   CardTable/CardTableExperiment/Library/metadata/00/00000000000000004100000000000000.info
+#	new file:   CardTable/CardTableExperiment/Library/metadata/00/00000000000000005000000000000000
+#	new file:   CardTable/CardTableExperiment/Library/metadata/00/00000000000000005000000000000000.info
+#	new file:   CardTable/CardTableExperiment/Library/metadata/00/00000000000000005100000000000000
+#	new file:   CardTable/CardTableExperiment/Library/metadata/00/00000000000000005100000000000000.info
+#	new file:   CardTable/CardTableExperiment/Library/metadata/00/00000000000000006000000000000000
+#	new file:   CardTable/CardTableExperiment/Library/metadata/00/00000000000000006000000000000000.info
+#	new file:   CardTable/CardTableExperiment/Library/metadata/00/00000000000000006100000000000000
+#	new file:   CardTable/CardTableExperiment/Library/metadata/00/00000000000000006100000000000000.info
+#	new file:   CardTable/CardTableExperiment/Library/metadata/00/00000000000000007000000000000000
+#	new file:   CardTable/CardTableExperiment/Library/metadata/00/00000000000000007000000000000000.info
+#	new file:   CardTable/CardTableExperiment/Library/metadata/00/00000000000000008000000000000000
+#	new file:   CardTable/CardTableExperiment/Library/metadata/00/00000000000000008000000000000000.info
+#	new file:   CardTable/CardTableExperiment/Library/metadata/00/00000000000000009000000000000000
+#	new file:   CardTable/CardTableExperiment/Library/metadata/00/00000000000000009000000000000000.info
+#	new file:   CardTable/CardTableExperiment/Library/metadata/00/0000000000000000a000000000000000
+#	new file:   CardTable/CardTableExperiment/Library/metadata/00/0000000000000000a000000000000000.info
+#	new file:   CardTable/CardTableExperiment/Library/metadata/00/0000000000000000b000000000000000
+#	new file:   CardTable/CardTableExperiment/Library/metadata/00/0000000000000000b000000000000000.info
+#	new file:   CardTable/CardTableExperiment/Library/metadata/00/0000000000000000c000000000000000
+#	new file:   CardTable/CardTableExperiment/Library/metadata/00/0000000000000000c000000000000000.info
+#	new file:   CardTable/CardTableExperiment/Library/metadata/02/02fe78e962405814a83b8ba6c9471d32
+#	new file:   CardTable/CardTableExperiment/Library/metadata/02/02fe78e962405814a83b8ba6c9471d32.info
+#	new file:   CardTable/CardTableExperiment/Library/metadata/09/092aee6930db5e94cb8b087f32f5c9fb
+#	new file:   CardTable/CardTableExperiment/Library/metadata/09/092aee6930db5e94cb8b087f32f5c9fb.info
+#	new file:   CardTable/CardTableExperiment/Library/metadata/38/38d405c119fcc7c4e83d4a478a40ff2f
+#	new file:   CardTable/CardTableExperiment/Library/metadata/38/38d405c119fcc7c4e83d4a478a40ff2f.info
+#	new file:   CardTable/CardTableExperiment/Library/metadata/3f/3f67f92f6ce8a3c4eb1aa0489d5f83d2
+#	new file:   CardTable/CardTableExperiment/Library/metadata/3f/3f67f92f6ce8a3c4eb1aa0489d5f83d2.info
+#	new file:   CardTable/CardTableExperiment/Library/metadata/4a/4ad02dc83da735c4e8d945332b9202f6
+#	new file:   CardTable/CardTableExperiment/Library/metadata/4a/4ad02dc83da735c4e8d945332b9202f6.info
+#	new file:   CardTable/CardTableExperiment/Library/metadata/5a/5a9218889a9abbc4fbfbaa9859531dae
+#	new file:   CardTable/CardTableExperiment/Library/metadata/5a/5a9218889a9abbc4fbfbaa9859531dae.info
+#	new file:   CardTable/CardTableExperiment/Library/metadata/5f/5f32cd94baa94578a686d4b9d6b660f7
+#	new file:   CardTable/CardTableExperiment/Library/metadata/5f/5f32cd94baa94578a686d4b9d6b660f7.info
+#	new file:   CardTable/CardTableExperiment/Library/metadata/6e/6e71a3e2fb5854e43823a9da25b68e21
+#	new file:   CardTable/CardTableExperiment/Library/metadata/6e/6e71a3e2fb5854e43823a9da25b68e21.info
+#	new file:   CardTable/CardTableExperiment/Library/metadata/80/80a3616ca19596e4da0f10f14d241e9f
+#	new file:   CardTable/CardTableExperiment/Library/metadata/80/80a3616ca19596e4da0f10f14d241e9f.info
+#	new file:   CardTable/CardTableExperiment/Library/metadata/87/870353891bb340e2b2a9c8707e7419ba
+#	new file:   CardTable/CardTableExperiment/Library/metadata/87/870353891bb340e2b2a9c8707e7419ba.info
+#	new file:   CardTable/CardTableExperiment/Library/metadata/b1/b147104ae3d0a1848994b25c7e06c672
+#	new file:   CardTable/CardTableExperiment/Library/metadata/b1/b147104ae3d0a1848994b25c7e06c672.info
+#	new file:   CardTable/CardTableExperiment/Library/metadata/be/be9985b5ebb1c114da21c7669d265524
+#	new file:   CardTable/CardTableExperiment/Library/metadata/be/be9985b5ebb1c114da21c7669d265524.info
+#	new file:   CardTable/CardTableExperiment/Library/metadata/f5/f5f67c52d1564df4a8936ccd202a3bd8
+#	new file:   CardTable/CardTableExperiment/Library/metadata/f5/f5f67c52d1564df4a8936ccd202a3bd8.info
+#	new file:   CardTable/CardTableExperiment/Library/shadercompiler-32bit-1.log
+#	new file:   CardTable/CardTableExperiment/Library/shadercompiler-64bit-1.log
+#	new file:   CardTable/CardTableExperiment/ProjectSettings/AudioManager.asset
+#	new file:   CardTable/CardTableExperiment/ProjectSettings/DynamicsManager.asset
+#	new file:   CardTable/CardTableExperiment/ProjectSettings/EditorBuildSettings.asset
+#	new file:   CardTable/CardTableExperiment/ProjectSettings/EditorSettings.asset
+#	new file:   CardTable/CardTableExperiment/ProjectSettings/GraphicsSettings.asset
+#	new file:   CardTable/CardTableExperiment/ProjectSettings/InputManager.asset
+#	new file:   CardTable/CardTableExperiment/ProjectSettings/NavMeshAreas.asset
+#	new file:   CardTable/CardTableExperiment/ProjectSettings/NetworkManager.asset
+#	new file:   CardTable/CardTableExperiment/ProjectSettings/Physics2DSettings.asset
+#	new file:   CardTable/CardTableExperiment/ProjectSettings/ProjectSettings.asset
+#	new file:   CardTable/CardTableExperiment/ProjectSettings/ProjectVersion.txt
+#	new file:   CardTable/CardTableExperiment/ProjectSettings/QualitySettings.asset
+#	new file:   CardTable/CardTableExperiment/ProjectSettings/TagManager.asset
+#	new file:   CardTable/CardTableExperiment/ProjectSettings/TimeManager.asset
+#	new file:   CardTable/CardTableExperiment/Temp/ProcessJobs/e9a6970f79cd12d8b075e7d72f1b07cb.bakert
+#	new file:   CardTable/CardTableExperiment/Temp/TarGZ/archtemp.tar
+#
+# Untracked files:
+#	CardTable/CardTableExperiment/Temp/UnityLockfile
+#	CardTable/CardTableExperiment/UnityVS.CardTableExperiment.sln
+#
+
